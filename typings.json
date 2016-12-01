@@ -1,0 +1,8 @@
+{
+  "name": "first-app",
+  "dependencies": {},
+  "globalDependencies": {
+    "echarts": "registry:dt/echarts#0.0.0+20160409144419",
+    "jquery": "registry:dt/jquery#1.10.0+20160929162922"
+  }
+}
